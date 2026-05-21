@@ -37,4 +37,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pr1t4m-d3y/Submission/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0707-design-linked-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
