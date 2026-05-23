@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pr1t4m-d3y/Submission/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0707-design-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
