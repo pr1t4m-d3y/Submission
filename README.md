@@ -40,9 +40,14 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0707-design-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
