@@ -41,6 +41,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/pr1t4m-d3y/Submission/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -51,5 +52,6 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/pr1t4m-d3y/Submission/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
