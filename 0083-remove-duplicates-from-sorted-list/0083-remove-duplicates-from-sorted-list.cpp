@@ -16,7 +16,11 @@ public:
         ListNode* curr=head;
 
         while (temp!=NULL){
-            if (temp->val==curr->val) temp=temp->next;
+            if (temp->val==curr->val) {
+                temp=temp->next;
+                delete curr->next;
+                curr->next=temp;
+            }
             else{
                 curr->next=temp;
                 curr=temp;
