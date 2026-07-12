@@ -10,40 +10,44 @@
  */
 class Solution {
 public:
-    void add(int data, ListNode* &head, ListNode* &tail){
-        ListNode* newNode=new ListNode(data);
-        if(head==NULL){
-            head=newNode;
-            tail=newNode;
-        }
-        else{
-            tail->next=newNode;
-            tail=newNode;
-        }
-        return;
-    }
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* head=NULL;
-        ListNode* tail=NULL;
+        if (list1==NULL)
+        return list2;
 
-        while (list1!=NULL && list2!=NULL){
-            if(list1->val<=list2->val){
-                add(list1->val, head,tail);
-                list1=list1->next;
+        if (list2==NULL)
+        return list1;
+
+        ListNode* curr=list1;
+        ListNode* temp=list2;
+        ListNode* tempNext=NULL;
+        ListNode* prev=NULL;
+
+        while (curr!=NULL && temp!=NULL){
+            if (temp->val>curr->val){
+                prev=curr;
+                curr=curr->next;
             }
-            else if (list2->val<list1->val){
-                add(list2->val, head, tail);
-                list2=list2->next;
+            else if (temp->val<=curr->val){
+                if(curr==list1){
+                    tempNext=temp->next;
+                    prev=temp;
+                    temp->next=curr;
+                    temp=tempNext;
+                    list1=prev;
+                }
+                else{
+                    tempNext=temp->next;
+                    prev->next=temp;
+                    temp->next=curr;
+                    prev=temp;
+                    temp=tempNext;
+                }
             }
         }
-        while (list1!=NULL){
-            add(list1->val, head, tail);
-            list1=list1->next;
+
+        if (temp!=NULL){
+            prev->next=temp;
         }
-        while (list2!=NULL){
-            add(list2->val, head, tail);
-            list2=list2->next;
-        }
-        return head;
+        return list1;
     }
 };
