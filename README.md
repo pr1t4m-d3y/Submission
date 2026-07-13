@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pr1t4m-d3y/Submission/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pr1t4m-d3y/Submission/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/pr1t4m-d3y/Submission/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
@@ -60,4 +62,9 @@
 | [0021-merge-two-sorted-lists](https://github.com/pr1t4m-d3y/Submission/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/pr1t4m-d3y/Submission/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0234-palindrome-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
