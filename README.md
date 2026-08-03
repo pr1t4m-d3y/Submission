@@ -38,6 +38,7 @@
 | [0141-linked-list-cycle](https://github.com/pr1t4m-d3y/Submission/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@
 | [0445-add-two-numbers-ii](https://github.com/pr1t4m-d3y/Submission/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0707-design-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
