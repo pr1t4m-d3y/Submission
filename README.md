@@ -20,6 +20,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pr1t4m-d3y/Submission/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/pr1t4m-d3y/Submission/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/pr1t4m-d3y/Submission/tree/main/0006-zigzag-conversion/) | Medium |
+| [0020-valid-parentheses](https://github.com/pr1t4m-d3y/Submission/tree/main/0020-valid-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pr1t4m-d3y/Submission/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/pr1t4m-d3y/Submission/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Math
@@ -83,4 +85,8 @@
 | [0002-add-two-numbers](https://github.com/pr1t4m-d3y/Submission/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/pr1t4m-d3y/Submission/tree/main/0189-rotate-array/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/pr1t4m-d3y/Submission/tree/main/0445-add-two-numbers-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/pr1t4m-d3y/Submission/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
