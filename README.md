@@ -9,6 +9,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/pr1t4m-d3y/Submission/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/pr1t4m-d3y/Submission/tree/main/0085-maximal-rectangle/) | Hard |
 | [0189-rotate-array](https://github.com/pr1t4m-d3y/Submission/tree/main/0189-rotate-array/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/pr1t4m-d3y/Submission/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | [0002-add-two-numbers](https://github.com/pr1t4m-d3y/Submission/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/pr1t4m-d3y/Submission/tree/main/0189-rotate-array/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/pr1t4m-d3y/Submission/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/pr1t4m-d3y/Submission/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
