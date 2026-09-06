@@ -92,6 +92,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pr1t4m-d3y/Submission/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/pr1t4m-d3y/Submission/tree/main/0189-rotate-array/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/pr1t4m-d3y/Submission/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/pr1t4m-d3y/Submission/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2235-add-two-integers](https://github.com/pr1t4m-d3y/Submission/tree/main/2235-add-two-integers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/pr1t4m-d3y/Submission/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -117,4 +118,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/pr1t4m-d3y/Submission/tree/main/0085-maximal-rectangle/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/pr1t4m-d3y/Submission/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
