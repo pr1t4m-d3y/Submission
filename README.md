@@ -25,10 +25,12 @@
 | [0006-zigzag-conversion](https://github.com/pr1t4m-d3y/Submission/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/pr1t4m-d3y/Submission/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pr1t4m-d3y/Submission/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pr1t4m-d3y/Submission/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pr1t4m-d3y/Submission/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pr1t4m-d3y/Submission/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
