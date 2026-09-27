@@ -10,6 +10,7 @@
 | [0085-maximal-rectangle](https://github.com/pr1t4m-d3y/Submission/tree/main/0085-maximal-rectangle/) | Hard |
 | [0189-rotate-array](https://github.com/pr1t4m-d3y/Submission/tree/main/0189-rotate-array/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pr1t4m-d3y/Submission/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pr1t4m-d3y/Submission/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/pr1t4m-d3y/Submission/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@
 | [0371-sum-of-two-integers](https://github.com/pr1t4m-d3y/Submission/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/pr1t4m-d3y/Submission/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2235-add-two-integers](https://github.com/pr1t4m-d3y/Submission/tree/main/2235-add-two-integers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pr1t4m-d3y/Submission/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/pr1t4m-d3y/Submission/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
