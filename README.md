@@ -9,6 +9,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/pr1t4m-d3y/Submission/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/pr1t4m-d3y/Submission/tree/main/0085-maximal-rectangle/) | Hard |
 | [0189-rotate-array](https://github.com/pr1t4m-d3y/Submission/tree/main/0189-rotate-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/pr1t4m-d3y/Submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pr1t4m-d3y/Submission/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pr1t4m-d3y/Submission/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/pr1t4m-d3y/Submission/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -19,6 +20,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pr1t4m-d3y/Submission/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/pr1t4m-d3y/Submission/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pr1t4m-d3y/Submission/tree/main/0141-linked-list-cycle/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/pr1t4m-d3y/Submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/pr1t4m-d3y/Submission/tree/main/0371-sum-of-two-integers/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pr1t4m-d3y/Submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
