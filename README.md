@@ -76,6 +76,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/pr1t4m-d3y/Submission/tree/main/0155-min-stack/) | Medium |
 | [0707-design-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@
 | [0020-valid-parentheses](https://github.com/pr1t4m-d3y/Submission/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/pr1t4m-d3y/Submission/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/pr1t4m-d3y/Submission/tree/main/0085-maximal-rectangle/) | Hard |
+| [0155-min-stack](https://github.com/pr1t4m-d3y/Submission/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/pr1t4m-d3y/Submission/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pr1t4m-d3y/Submission/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
