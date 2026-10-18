@@ -10,6 +10,7 @@
 | [0085-maximal-rectangle](https://github.com/pr1t4m-d3y/Submission/tree/main/0085-maximal-rectangle/) | Hard |
 | [0189-rotate-array](https://github.com/pr1t4m-d3y/Submission/tree/main/0189-rotate-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pr1t4m-d3y/Submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0622-design-circular-queue](https://github.com/pr1t4m-d3y/Submission/tree/main/0622-design-circular-queue/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pr1t4m-d3y/Submission/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pr1t4m-d3y/Submission/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/pr1t4m-d3y/Submission/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -72,6 +73,7 @@
 | [0206-reverse-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/pr1t4m-d3y/Submission/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0622-design-circular-queue](https://github.com/pr1t4m-d3y/Submission/tree/main/0622-design-circular-queue/) | Medium |
 | [0707-design-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -79,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/pr1t4m-d3y/Submission/tree/main/0155-min-stack/) | Medium |
+| [0622-design-circular-queue](https://github.com/pr1t4m-d3y/Submission/tree/main/0622-design-circular-queue/) | Medium |
 | [0707-design-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -142,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pr1t4m-d3y/Submission/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0622-design-circular-queue](https://github.com/pr1t4m-d3y/Submission/tree/main/0622-design-circular-queue/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
