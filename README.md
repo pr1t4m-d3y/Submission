@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/pr1t4m-d3y/Submission/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/pr1t4m-d3y/Submission/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/pr1t4m-d3y/Submission/tree/main/0085-maximal-rectangle/) | Hard |
+| [0134-gas-station](https://github.com/pr1t4m-d3y/Submission/tree/main/0134-gas-station/) | Medium |
 | [0189-rotate-array](https://github.com/pr1t4m-d3y/Submission/tree/main/0189-rotate-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pr1t4m-d3y/Submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/pr1t4m-d3y/Submission/tree/main/0622-design-circular-queue/) | Medium |
@@ -119,6 +120,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/pr1t4m-d3y/Submission/tree/main/0134-gas-station/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pr1t4m-d3y/Submission/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
