@@ -156,10 +156,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +170,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
