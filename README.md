@@ -34,6 +34,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pr1t4m-d3y/Submission/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pr1t4m-d3y/Submission/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pr1t4m-d3y/Submission/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/pr1t4m-d3y/Submission/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@
 | [0234-palindrome-linked-list](https://github.com/pr1t4m-d3y/Submission/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/pr1t4m-d3y/Submission/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pr1t4m-d3y/Submission/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/pr1t4m-d3y/Submission/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +184,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/pr1t4m-d3y/Submission/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
