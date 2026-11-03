@@ -13,6 +13,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/pr1t4m-d3y/Submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/pr1t4m-d3y/Submission/tree/main/0622-design-circular-queue/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pr1t4m-d3y/Submission/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pr1t4m-d3y/Submission/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pr1t4m-d3y/Submission/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/pr1t4m-d3y/Submission/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pr1t4m-d3y/Submission/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pr1t4m-d3y/Submission/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/pr1t4m-d3y/Submission/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/pr1t4m-d3y/Submission/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
