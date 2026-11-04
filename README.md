@@ -110,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/pr1t4m-d3y/Submission/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/pr1t4m-d3y/Submission/tree/main/0007-reverse-integer/) | Medium |
 | [0189-rotate-array](https://github.com/pr1t4m-d3y/Submission/tree/main/0189-rotate-array/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/pr1t4m-d3y/Submission/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/pr1t4m-d3y/Submission/tree/main/0445-add-two-numbers-ii/) | Medium |
