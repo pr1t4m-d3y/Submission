@@ -11,7 +11,7 @@
  */
 class Solution {
 private:
-    void targetSearch(TreeNode* root, int targetSum, int &count,bool &isValid){
+    void targetSearch(TreeNode* root, int targetSum, int count,bool &isValid){
         if (root==NULL) return;
         count+=root->val;
         if (root->left==NULL && root->right==NULL){
@@ -21,11 +21,10 @@ private:
             }
         }
         
-        if (root->left) {targetSearch(root->left, targetSum, count,isValid);
-        count-=root->left->val;}
+        if (root->left) targetSearch(root->left, targetSum, count,isValid);
         if (isValid) return;
         
-        if (root->right) {targetSearch(root->right, targetSum, count,isValid);count-=root->right->val;}
+        if (root->right) targetSearch(root->right, targetSum, count,isValid);
         if(isValid) return;
         
 
