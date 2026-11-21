@@ -9,49 +9,34 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        map<int, map<int, vector<int>>> mp;
-        queue<pair<TreeNode*, pair<int,int>>> q;
+        map<int,map<int,vector<int>>> mp;
+        queue<pair<TreeNode*, pair<int,int>>>q;
         vector<vector<int>> ans;
 
-        if (root == NULL) return ans;
+        if (root==NULL) return ans;
 
-        q.push({root, {0, 0}});
-
-        while (!q.empty()) {
-            auto temp = q.front();
+        q.push(make_pair(root,make_pair(0,0)));
+        while (!q.empty()){
+            pair<TreeNode*,pair<int,int>> temp=q.front();
             q.pop();
-
-            TreeNode* node = temp.first;
-            int hd = temp.second.first;
-            int level = temp.second.second;
-
-            mp[hd][level].push_back(node->val);
-
-            if (node->left)
-                q.push({node->left, {hd - 1, level + 1}});
-
-            if (node->right)
-                q.push({node->right, {hd + 1, level + 1}});
+            int hd=temp.second.first;
+            int level=temp.second.second;
+            mp[hd][level].push_back(temp.first->val);
+            if (temp.first->left) q.push(make_pair(temp.first->left, make_pair(hd-1,level+1)));
+            if (temp.first->right) q.push(make_pair(temp.first->right,make_pair(hd+1,level+1)));
         }
-
-        for (auto &i : mp) {
-            vector<int> col;
-
-            for (auto &j : i.second) {
-                sort(j.second.begin(), j.second.end());
-
-                for (auto k : j.second) {
-                    col.push_back(k);
-                }
+        for (auto i:mp){
+            vector<int>col;
+            for (auto j:i.second){
+                sort(j.second.begin(),j.second.end());
+                for (auto k:j.second)
+                col.push_back(k);
             }
-
             ans.push_back(col);
         }
-
         return ans;
     }
 };
