@@ -26,6 +26,7 @@
 | [0141-linked-list-cycle](https://github.com/pr1t4m-d3y/Submission/tree/main/0141-linked-list-cycle/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pr1t4m-d3y/Submission/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/pr1t4m-d3y/Submission/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +171,7 @@
 | [0110-balanced-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/pr1t4m-d3y/Submission/tree/main/0112-path-sum/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +180,7 @@
 | [0110-balanced-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/pr1t4m-d3y/Submission/tree/main/0112-path-sum/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +188,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pr1t4m-d3y/Submission/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/pr1t4m-d3y/Submission/tree/main/0112-path-sum/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +198,7 @@
 | [0110-balanced-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/pr1t4m-d3y/Submission/tree/main/0112-path-sum/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,5 +210,6 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pr1t4m-d3y/Submission/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pr1t4m-d3y/Submission/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
